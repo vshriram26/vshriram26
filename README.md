@@ -18,26 +18,14 @@ I'm a **final-year Electronics & Telecommunication Engineering student** at **SK
 
 ## 🧠 Core Competencies
 
-### 🤖 Intelligence & Software
-```
-TensorFlow | CNN (Convolutional Neural Networks)
-Reinforcement Learning (DQN) | Transfer Learning
-Python | MATLAB | Deep Learning Architectures
-```
-
-### 🌐 Networks & Protocols
-```
-IPv6 (OSPFv3, EIGRP) | 5G Signal Optimization
-Cisco Packet Tracer | Network Simulation & Analysis
-Protocol Design | Routing Algorithms
-```
-
-### ⚡ Power & Industrial Hardware
-```
-PLC Panel Design & Commissioning | AVR (Automatic Voltage Regulator)
-ATS (Automatic Transfer Switch) | Digital Relays
-Hardware Integration | Industrial Automation
-```
+| **Domain** | **Technologies & Skills** |
+|-----------|-------------------------|
+| **AI & ML** | CNN, Reinforcement Learning (DQN), Transfer Learning, TensorFlow, Scikit-learn, Python (Pandas / NumPy) |
+| **Networking** | IPv6, OSPFv3, EIGRP, RIPng, 5G Signal Optimisation, Adaptive Routing, Network KPI Analysis |
+| **Power & Hardware** | AVR, ATS, PLC Panels, Digital Relay Systems, IR / HV Testing, Current Transformers, Signal Transmitters |
+| **Perf. Analysis** | SNR, Throughput, Latency, PDR benchmarking; simulation-based validation (Cisco Packet Tracer) |
+| **Software & Tools** | TensorFlow, VS Code, Git / GitHub, MongoDB, Cisco Packet Tracer, PuTTY |
+| **Research** | IEEE publications, experimental design, technical documentation, data visualisation |
 
 ---
 
@@ -45,8 +33,8 @@ Hardware Integration | Industrial Automation
 
 | **Paper** | **Conference** | **Focus** | **Key Result** | **DOI** |
 |-----------|----------------|----------|---|---|
-| **CNN-Based Semiconductor Quality Control** | ICONSTEM 2025 | Defect Detection in Manufacturing | **91.9% Accuracy** | [View DOI](https://doi.org) |
-| **Reinforcement Learning for 5G Signal Optimization** | ICECONF 2025 | SNR Enhancement in Wireless Networks | **23% SNR Improvement** | [View DOI](https://doi.org) |
+| **CNN-Based Semiconductor Quality Control** | ICONSTEM 2025 | Defect Detection in Manufacturing | **91.9% Accuracy** | [DOI: 10.1109/ICONSTEM65670.2025.11374681](https://doi.org/10.1109/ICONSTEM65670.2025.11374681) |
+| **Reinforcement Learning for 5G Signal Optimization** | ICECONF 2025 | SNR Enhancement in Wireless Networks | **23% SNR Improvement** | [DOI: 10.1109/ICECONF65644.2025.11379666](https://doi.org/10.1109/ICECONF65644.2025.11379666) |
 
 > 📌 **IEEE Author Profile**: [Link to IEEE Xplore](https://ieeexplore.ieee.org/author/183847357261794)
 
@@ -136,17 +124,21 @@ I'm actively seeking collaborations in:
 
 ---
 
-## 📚 Recommended SVG Banner Resources
+## 🏆 Certifications
 
-For your pinned repositories, consider using these professional banner styles:
-- **Lucidchart**: Architecture diagrams and system flowcharts
-- **Draw.io**: Block diagrams for CNN pipelines and RL environments
-- **Mermaid**: Inline diagrams in repository READMEs for algorithms and workflows
+- **Professional Certificate in Applied AI and Machine Learning** — E&ICT Academy, IIT Guwahati
+- **Networking Basics** — Cisco Networking Academy
+- **Networking Devices and Initial Configuration** — Cisco Networking Academy
+- **Full Stack Development** (Java, J2EE, Angular) — Kiran Academy
+- **Introduction to Programming Using Python** — Coursera
 
-### Banner URL for this profile:
-```
-https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,29,47&height=300&section=header&text=Shriram%20Deshmukh&fontSize=70&fontColor=ffffff&animation=fadeIn
-```
+---
+
+## 📚 Relevant Coursework
+
+**Core Engineering**: VLSI | Sensors & Actuators | IoT | Cloud Computing | Microcontrollers | DBMS
+
+**Electronics & Signals**: Control Systems | Electronics Circuits | Digital Circuits | Signal & Systems | Fiber Optic Communication | Power Devices & Circuits
 
 ---
 
